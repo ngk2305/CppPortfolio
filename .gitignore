@@ -15,3 +15,4 @@ compile_commands.json
 *~
 .DS_Store
 .cache/
+phase0/week1/data/big_*.txt
